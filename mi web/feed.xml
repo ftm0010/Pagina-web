@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Asociación Cultural NeDoKwan</title>
+    <link>https://capable-eclair-568599.netlify.app/</link>
+    <description>Promovemos las artes marciales y la cultura asiática en nuestra comunidad.</description>
+    <language>es</language>
+
+    <item>
+      <title>Próximos Eventos</title>
+      <link>https://capable-eclair-568599.netlify.app/fotos</link>
+      <description>No te pierdas nuestros eventos especiales y seminarios.</description>
+    </item>
+
+    <item>
+      <title>Nociones Básicas</title>
+      <link>https://capable-eclair-568599.netlify.app/aprende</link>
+      <description>Aprende técnicas de patadas y puños para mejorar tus habilidades.</description>
+    </item>
+
+    <item>
+        <title>Área de Socios</title>
+        <link>https://capable-eclair-568599.netlify.app/apuntate</link>
+        <description>Apuntate con nosotros.</description>
+      </item>
+
+    <item>
+      <title>Contacto</title>
+      <link>https://capable-eclair-568599.netlify.app/contacto</link>
+      <description>Encuentra nuestra dirección, teléfono y correo electrónico.</description>
+    </item>
+
+    <item>
+      <title>Horarios de Clases</title>
+      <link>https://capable-eclair-568599.netlify.app/sobre_nosotros</link>
+      <description>Consulta los horarios de nuestras clases de Hapkido, Yoga y Pilates.</description>
+    </item>
+
+    <item>
+      <title>Videos de Entrenamiento - Patadas</title>
+      <link>https://capable-eclair-568599.netlify.app/tecnicadepatadasvideos</link>
+      <description>Mira nuestros videos de entrenamiento de técnicas de patadas.</description>
+    </item>
+
+    <item>
+      <title>Videos de Entrenamiento - Puños</title>
+      <link>https://capable-eclair-568599.netlify.app/tecnicadepu%C3%B1osvideos.html</link>
+      <description>Mira nuestros videos de entrenamiento de técnicas de puños.</description>
+    </item>
+  </channel>
+</rss>
